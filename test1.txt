@@ -1,0 +1,10 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is CE82-C354
+
+ Directory of C:\Users\iamta\Downloads\MyProject
+
+08/28/2024  05:42 PM    <DIR>          .
+08/28/2024  05:33 PM    <DIR>          ..
+08/28/2024  05:42 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  365,053,779,968 bytes free
